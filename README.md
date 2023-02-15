@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, content creation...
 - 🌱 I’m currently Working as a Hubspot CMS Developer...
 - 💞️ I’m looking to collaborate on a software for content creators.
+- 👨‍🎓 Student IGNOU Delhi India
 - 📫 You can reach me at www.kumarchetan.in OR
      Mail me at kumarchetan.npr@gmail.com
 
