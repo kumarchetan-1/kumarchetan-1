@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kumarchetan-1
 - 👀 I’m interested in coding, content creation...
 - 🌱 I’m currently Working as a Hubspot CMS Developer...
-- 💞️ I’m looking to collaborate on a software for content creators.
-- 👨‍🎓 Student IGNOU Delhi India
-- 📫 You can reach me at www.kumarchetan.in OR
+- 💞️ I’m looking to collaborate on software for content creators.
+- 👨‍🎓 Learning how to create a problem-solving software product.
+- 📫 You can reach me at www.chetankumar.me/contact OR
      Mail me at kumarchetan.npr@gmail.com
 
 <!---
